@@ -1,0 +1,13 @@
+Id,Name,ComponentTypeId,IsActive,AttributeType,CreatedBy,CreatedDate,ModifiedBy,ModifiedDate,JsonKey
+2,PrinterTypeId,3,t,2,,2021-04-09 11:43:23,,,
+3,LayerThicknessId,7,t,2,,2021-04-09 11:43:23,,,
+6,SKU,1,t,1,,2021-04-09 11:43:23,,,
+7,ResinId,3,t,2,,2021-04-09 11:43:23,,,
+8,ProfileId,7,t,2,,2021-04-09 11:43:23,,,
+9,AccessLevel,1,t,1,,2021-04-09 11:43:23,,,
+11,Thickness,5,t,1,,2021-04-22 16:32:02,,,
+1,ManufacturerId,1,t,2,,2021-04-09 11:43:23,,,fa
+10,Cure Time,7,t,1,,2021-04-22 16:32:02,,,ct
+5,Adhesion Layer Cure Time,7,t,1,,2021-04-09 11:43:23,,,al
+4,Heat Profile,3,t,1,,2021-04-09 11:43:23,,,hp
+12,Supports Cure Time,3,t,1,,2021-08-11 17:56:47,,,sct
